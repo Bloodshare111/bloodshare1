@@ -1,5 +1,4 @@
 # Blood Bank Management System
-![developer](https://img.shields.io/badge/Developed%20By%20%3Team--BloodShare%20-red)
 ---
 ## Screenshots
 ### Homepage
